@@ -1,4 +1,4 @@
-# Phonepe: Data_visualization and Exploration
+# Phonepe_Datavisualization
 The aim of this project will be a live geo visualization dashboard that displays information and insights from the Phonepe pulse Github repository in an interactive and visually appealing manner. The dashboard will have at least 10 different dropdown options for users to select different facts and figures to display. The data will be stored in a MySQL database for efficient retrieval and the dashboard will be dynamically updated to reflect the latest data.
 
 # Approach
